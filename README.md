@@ -18,8 +18,8 @@ Team planning is essential to your success as a developer. The following require
 ## Requirements when planning (BEFORE DEV)
 - Talk through the project requirements to ensure every understands the premise of the project
 - Talk through the “user flow” of the project taking notes
-- Create a Dependency Graph Ticket
 - Create issue tickets that outline all the pertinent info based on your notes (you can divide an conquer on this, but if you do, your team MUST review all tickets together and all approve of them)
+- Categorize tickets into Milestones and create these milestones under [`Issues -> Milestones`](https://github.com/nss-nightclass-projects/team-planning/milestones) and add the relevant tickets to the Milestone
 
 ## Requirements during development
 - Make sure code is properly formatted
@@ -31,6 +31,7 @@ Team planning is essential to your success as a developer. The following require
 - Do NOT add scope to a ticket that you have be assigned without team approval
 - Have conversations and chat with your teammates to get to know them better
 - Trust your teammates. You all belong here and can produce good code!
+- **DO NOT** and I repeat **DO NOT** move on to another milestone if there are still tickets in your current milestone. Work TOGETHER as a team to get all tickets in the milestone completed, reviewed, and merged.
 - Don’t be an asshole! Because they stink...
 
 #### Follow the PR Review Process:
@@ -46,13 +47,14 @@ Team planning is essential to your success as a developer. The following require
 - Approve the PR
 
 **NOTE:**
-Once code is merged to master, it is now the source of truth. 
+Once code is merged to main, it is now the source of truth. 
 
-Each team member will need to merge master into their own branches to continue to work, so you will want to make sure that your code works with the new changes.
+Each team member will need to merge main into their own branches to continue to work, so you will want to make sure that your code works with the new changes.
 
 ## Requirements for finishing up your project
 - All members are familiar with all aspects of the code
 - You have reviewed how you will present your project to the class. EVERY team member will speak for 1 minute each and then answer class questions based on the feature they built.
+
 #### README is completed with:
 - Name of the Project
 - Overview of the project
