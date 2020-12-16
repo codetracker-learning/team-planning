@@ -4,7 +4,7 @@
 Team planning is essential to your success as a developer. The following requirements will guide your planning process while at NSS.
 
 - [Figma Mock](https://www.figma.com/file/NUGTGGsjuhazmwbF2DzfPA/Planning)
-- [Project Board](https://github.com/nss-evening-cohort-13/team-planning/projects/1)
+- [Project Board](https://github.com/nss-nightclass-projects/team-planning/projects/1)
 
 ## Requirements when starting a project (BEFORE PLANNING)
 - Create the Issue Template (ISSUE_TEMPLATE)
