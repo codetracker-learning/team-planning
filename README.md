@@ -64,6 +64,7 @@ Each team member will need to merge main into their own branches to continue to 
 - List of features
 - Screenshots of your project
 - List of contributors and links to their GH profiles
+- Link to Loom video walkthrough of your app (no more than 1 minute long! Make it great)
 
 ## Contributors
 [Dr. Teresa Vasquez](https://github.com/drteresavasquez)
