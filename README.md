@@ -11,7 +11,7 @@ Team planning is essential to your success as a developer. The following require
 - Codebase Setup (i.e. index.html, styles.css, main.js, etc)
 - Ensure all team members have access to the repo and have it pulled down on their machines and the setup is running properly
 - Update repo Branch protection rules in settings to require 2 reviewers and apply to admin
-- Create a project board with automated kanban
+- Create a project board with automated kanban with at least these columns: To Do, In Progress, Review Needed, Done
 - Create a figma board ensuring all your teammates have access to it (likely via email addresses)
 
 ## Requirements when planning (BEFORE DEV)
@@ -19,6 +19,7 @@ Team planning is essential to your success as a developer. The following require
 - Talk through the “user flow” of the project taking notes
 - Create issue tickets that outline all the pertinent info based on your notes (you can divide an conquer on this, but if you do, your team MUST review all tickets together and all approve of them)
 - Categorize tickets into Milestones and create these milestones under [`Issues -> Milestones`](https://github.com/nss-nightclass-projects/team-planning/milestones) and add the relevant tickets to the Milestone
+- Assign tickets to a developer
 
 ## Requirements during development
 - Make sure code is properly formatted
@@ -65,6 +66,8 @@ Each team member will need to merge main into their own branches to continue to 
 - Screenshots of your project
 - List of contributors and links to their GH profiles
 - Link to Loom video walkthrough of your app (no more than 1 minute long! Make it great)
+
+**NOTE**: You will need to remove the instructions in the readme to make these team updates.
 
 ## Contributors
 [Dr. Teresa Vasquez](https://github.com/drteresavasquez)
