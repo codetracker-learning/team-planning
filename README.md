@@ -10,7 +10,7 @@ Team planning is essential to your success as a developer. The following require
 - Create the Pull Request Template (PULL_REQUEST_TEMPLATE)
 - Codebase Setup (i.e. index.html, styles.css, main.js, etc)
 - Ensure all team members have access to the repo and have it pulled down on their machines and the setup is running properly
-- Update repo settings to require 2 reviewers and apply to admin
+- Update repo Branch protection rules in settings to require 2 reviewers and apply to admin
 - Create a project board with automated kanban
 - Create a figma board ensuring all your teammates have access to it (likely via email addresses)
 
