@@ -68,7 +68,7 @@ Each team member will need to merge main into their own branches to continue to 
 - Name of the Project
 - Overview of the project
 - Link to your wireframes/prototype
-- Link to the deployed project (will learn in week 5)
+- Link to the deployed project
 - Link to your project board (yes...even though it is a part of the repo)
 - Description of the user
 - List of features
