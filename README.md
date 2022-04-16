@@ -1,7 +1,9 @@
 # Team Planning
 
 ## Overview
-For this study group project, complete all the requirements below. See issue tickets for planning.
+For this study group project, READ, REVIEW, and DISCUSS all the requirements below.
+
+It is expected that you will ask any questions on Help Tickets and have a good understanding of what is expected for Team Projects.
 
 Team planning is essential to your success as a developer. The following requirements will guide your planning process while at NSS.
 
