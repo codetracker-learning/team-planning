@@ -8,19 +8,26 @@ It is expected that you will ask any questions on Help Tickets and have a good u
 Team planning is essential to your success as a developer. The following requirements will guide your planning process while at NSS.
 
 ## Requirements when starting a project (BEFORE PLANNING)
-- Create the Issue Template (ISSUE_TEMPLATE)
-- Create the Pull Request Template (PULL_REQUEST_TEMPLATE)
-- Codebase Setup (i.e. index.html, styles.css, main.js, etc)
-- Ensure all team members have access to the repo and have it pulled down on their machines and the setup is running properly
-- Update repo Branch protection rules in settings to require 2 reviewers and apply to admin
-- Create a project board with automated kanban with at least these columns: To Do, In Progress, Review Needed, Done
-- Create a figma board ensuring all your teammates have access to it (likely via email addresses)
+- 1 team member does the following:
+  - Create a repo on Github
+  - Create a branch
+  - Start the Codebase Setup (i.e. index.html, styles.css, main.js, etc)
+  - Push the code to GH
+  - Make a PR
+  - Get an approval on the setup from at least 1 teammate
+  - merge into main branch
+
+After the inital setup, everyone is responsible for:
+- Ensuring all team members have access to the repo and have it pulled down on their machines and the setup is running properly
+- Updating repo Branch protection rules in settings to require 2 reviewers and apply to admin
+- Creating a project board with automated kanban with at least these columns: To Do, In Progress, Review Needed, Done
+- Creating a place for wireframes (i.e. figma board) ensuring all your teammates have access to it (likely via email addresses)
 
 ## Requirements when planning (BEFORE DEV)
 - Talk through the project requirements to ensure every understands the premise of the project
 - Talk through the “user flow” of the project taking notes
 - Create issue tickets that outline all the pertinent info based on your notes (you can divide an conquer on this, but if you do, your team MUST review all tickets together and all approve of them)
-- Categorize tickets into Milestones and create these milestones under [`Issues -> Milestones`](https://github.com/nss-nightclass-projects/team-planning/milestones) and add the relevant tickets to the Milestone
+- Categorize tickets into Milestones and create these milestones under [`Issues -> Milestones`](https://github.com/codetracker-learning/team-planning/milestones) and add the relevant tickets to the Milestone
 - Assign tickets to a developer
 
 ## Requirements during development
