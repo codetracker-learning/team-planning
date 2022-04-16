@@ -9,7 +9,7 @@ Team planning is essential to your success as a developer. The following require
 
 ## Requirements when starting a project (BEFORE PLANNING)
 - 1 team member does the following:
-  - Create a repo on Github
+  - Create a repo on Github (UNLESS one has been provided for you in class)
   - Create a branch
   - Start the Codebase Setup (i.e. index.html, styles.css, main.js, etc)
   - Push the code to GH
