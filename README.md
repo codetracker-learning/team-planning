@@ -1,7 +1,7 @@
 # Team Planning
 
 ## Overview
-For this study group project, READ, REVIEW, and DISCUSS all the requirements below.
+For this study group project, READ, REVIEW, and DISCUSS all the requirements below. If your study group decides to try the process out, feel free to do so. This will be helpful for you when you have to do it as a team.
 
 It is expected that you will ask any questions on Help Tickets and have a good understanding of what is expected for Team Projects.
 
