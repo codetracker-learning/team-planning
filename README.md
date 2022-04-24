@@ -7,6 +7,8 @@ It is expected that you will ask any questions on Help Tickets and have a good u
 
 Team planning is essential to your success as a developer. The following requirements will guide your planning process while at NSS.
 
+**TIMEBOX planning to a couple of hours**
+
 ## Requirements when starting a project (BEFORE PLANNING)
 - 1 team member does the following:
   - Create a repo on Github (UNLESS one has been provided for you in class)
