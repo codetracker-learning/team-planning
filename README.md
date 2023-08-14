@@ -18,11 +18,12 @@ Team planning is essential to your success as a developer. The following require
   - Make a PR
   - Get an approval on the setup from at least 1 teammate
   - merge into main branch
+  - Create a project board using board template
 
 After the inital setup, everyone is responsible for:
-- Ensuring all team members have access to the repo and have it pulled down on their machines and the setup is running properly
+- Ensuring all team members have access to the repo and the project board
+- Ensuring all team members have the repo pulled down on their machines and the setup is running properly
 - Updating repo Branch protection rules in settings to require 2 reviewers and apply to admin
-- Creating a project board with automated kanban with at least these columns: To Do, In Progress, Review Needed, Done
 - Creating a place for wireframes (i.e. figma board) ensuring all your teammates have access to it (likely via email addresses)
 
 ## Requirements when planning (BEFORE DEV)
