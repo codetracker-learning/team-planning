@@ -18,7 +18,7 @@ Team planning is essential to your success as a developer. The following require
   - Make a PR
   - Get an approval on the setup from at least 1 teammate
   - merge into main branch
-  - Create a project board using board template
+  - [Create a project board using board template](https://scribehow.com/shared/Creating_a_New_Repository_and_Managing_Access_on_GitHub__Sn9IUOTfRJqbhajfj5Pr0w)
 
 After the inital setup, everyone is responsible for:
 - Ensuring all team members have access to the repo and the project board
