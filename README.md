@@ -11,14 +11,15 @@ Team planning is essential to your success as a developer. The following require
 
 ## Requirements when starting a project (BEFORE PLANNING)
 - 1 team member does the following:
-  - Create a repo on Github (UNLESS one has been provided for you in class)
-  - Create a branch
-  - Start the Codebase Setup (i.e. index.html, styles.css, main.js, etc)
-  - Push the code to GH
-  - Make a PR
-  - Get an approval on the setup from at least 1 teammate
-  - merge into main branch
-  - [Create a project board using board template](https://scribehow.com/shared/Creating_a_New_Repository_and_Managing_Access_on_GitHub__Sn9IUOTfRJqbhajfj5Pr0w)
+  1. Create a repo on Github (UNLESS one has been provided for you in class)
+  1. [Create a project board using board template](https://scribehow.com/shared/Creating_a_New_Repository_and_Managing_Access_on_GitHub__Sn9IUOTfRJqbhajfj5Pr0w)
+  1. Create a ticket on the board and convert to an issue adding it to the repo you just created.
+  1. Create a branch
+  1. Start the Codebase Setup (i.e. index.html, styles.css, main.js, etc)
+  1. Push the code to GH
+  1. Make a PR
+  1. Get an approval on the setup from at least 1 teammate
+  1. merge into main branch
 
 After the inital setup, everyone is responsible for:
 - Ensuring all team members have access to the repo and the project board
